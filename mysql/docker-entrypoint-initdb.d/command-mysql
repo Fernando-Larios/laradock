@@ -1,0 +1,1 @@
+mysql -u username -p pass database_name < file.sql
